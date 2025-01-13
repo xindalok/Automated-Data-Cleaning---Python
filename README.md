@@ -1,4 +1,4 @@
-# Data Cleaning Application Overview
+# Data Cleaning Script
 
 This Python script provides a robust framework for cleaning datasets, designed to handle common data quality issues such as duplicates and missing values. 
 Primarily been used in Jupyter Notebooks.
