@@ -226,5 +226,8 @@ print(f"\n\n\nDataset name: {data_name}")
 data_cleaning_app(data_name)
 ```
 
- #### Output: 
+ ### Output from code: 
  
+<img src="images/output" width="1000" height="500" />
+
+
