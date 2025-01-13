@@ -1,6 +1,7 @@
 # Data Cleaning Application Overview
 
 This Python script provides a robust framework for cleaning datasets, designed to handle common data quality issues such as duplicates and missing values. 
+Primarily been used in Jupyter Notebooks.
 
 ---
 
@@ -77,7 +78,7 @@ This Python script provides a robust framework for cleaning datasets, designed t
 
 ## Example Usage
 1. Place the dataset in the `downloads/` directory.
-2. Run the script in a Python environment.
+2. Run the script in Jupyter Notebooks.
 3. Input the filename when prompted (e.g. `sales.csv`).
 4. View the summary of the cleaning process and retrieve cleaned files from the directory.
 
