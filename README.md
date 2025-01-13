@@ -12,7 +12,7 @@ This Python script provides a robust framework for cleaning datasets, designed t
    b. [Handling Missing Values](#b-handling-missing-values)
 - [Output and Saving Results](#3-output-and-saving-results)
 - [Interactivity and User Experience](#4-interactivity-and-user-experience)
-- [Key Features](#5-key-features)
+- [Key Features](#key-features)
 
 
 ## 1. Input and File Handling
