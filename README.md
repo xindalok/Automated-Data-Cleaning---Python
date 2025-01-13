@@ -9,15 +9,13 @@ Primarily been used in Jupyter Notebooks.
 - [Data Cleaning Application Overview](#data-cleaning-application-overview)
 - [Input and File Handling](#1-input-and-file-handling)
 - [Data Cleaning Process](#2-data-cleaning-process)  
-   -[Handling Duplicates](#a-handling-duplicates)  
-   -[Handling Missing Values](#b-handling-missing-values)
+   - [Handling Duplicates](#a-handling-duplicates)  
+   - [Handling Missing Values](#b-handling-missing-values)
 - [Output and Saving Results](#3-output-and-saving-results)
 - [Interactivity and User Experience](#4-interactivity-and-user-experience)
 - [Key Features](#key-features)
 - [Script code](#code)
-   -[Output](#output-from-code)
-
-
+   - [Output](#output-from-code)
 
 ## 1. Input and File Handling
 - **User Input**: Prompts the user to input the name of the dataset, which should be located in the `downloads/` directory.
