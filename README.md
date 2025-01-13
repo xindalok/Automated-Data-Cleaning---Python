@@ -9,11 +9,14 @@ Primarily been used in Jupyter Notebooks.
 - [Data Cleaning Application Overview](#data-cleaning-application-overview)
 - [Input and File Handling](#1-input-and-file-handling)
 - [Data Cleaning Process](#2-data-cleaning-process)  
-   a. [Handling Duplicates](#a-handling-duplicates)  
-   b. [Handling Missing Values](#b-handling-missing-values)
+   -[Handling Duplicates](#a-handling-duplicates)  
+   -[Handling Missing Values](#b-handling-missing-values)
 - [Output and Saving Results](#3-output-and-saving-results)
 - [Interactivity and User Experience](#4-interactivity-and-user-experience)
 - [Key Features](#key-features)
+- [Script code](#code)
+   -[Output](#output-from-code)
+
 
 
 ## 1. Input and File Handling
