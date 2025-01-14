@@ -5,7 +5,7 @@ Primarily been used in Jupyter Notebooks.
 
 ---
 
-# Table of Contents
+### Table of Contents
 - [Input and File Handling](#1-input-and-file-handling)
 - [Data Cleaning Process](#2-data-cleaning-process)  
    - [Handling Duplicates](#a-handling-duplicates)  
